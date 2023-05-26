@@ -21,14 +21,20 @@ Discord offers:
 
 # Community Features
 
-### League and Events Discussion
-Our community is a perfect place for event promotion. Whether you're organizing a tournament, a casual meetup, or a reocurring league, you can share details and engage with the community in real-time. Filter by days of the week or tournament type for easy discovery.
+### Community Discussion
+Connect with other local disc golfers in real-time. Ask questions, discuss a course or an upcoming tournament. "Is doubles happening this week?" This is the place to find out.
+
+### Leagues and Events Space
+Our community is a perfect place to promote and learn about disc golf events in central Texas. Whether you're organizing a tournament, a casual meetup, or a reocurring league, you can share details and engage with the community in real-time. Filter by days of the week or tournament type for quick discovery.
 
 ### Easy round invites
 Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, our instant communication and notification features enable you to connect with other golfers swiftly and efficiently. 
 
-### Organized topics
-Discord's channel feature allows for organized communication by categorizing discussions into specific topics. Channels are particularly beneficial for larger communities as they provide dedicated areas for focused conversations. In the initial stages, a limited number of channels are set up to promote simplicity and foster stronger connections. As the need arises for dedicated spaces to discuss specific topics, additional channels can be added to accommodate those needs.
+### Lost and Found
+Did you you lose a disc? Does one you found only have a pdga number? Help reconnect people with their prized posessions!
+
+### Buy / Sell / Trade
+We all know someone with too much plastic. Maybe it's you! Our community offers a dedicated space for you to buy/sell/trade disc golf equipment. 
 
 # Word on the street
 
