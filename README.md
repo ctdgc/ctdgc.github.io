@@ -36,14 +36,6 @@ Did you you lose a disc? Did you find one without name and want to get it back t
 ### Buy / Sell / Trade
 We all know someone with too much plastic. Maybe it's you! Either way, our community offers a dedicated space for you to buy, sell and trade with others in the community.
 
-# Word on the street
-
-> This is soo much better than our old group text. Now, when new people join, we don't have to start a whole new message thread!  
-
-> Yes! I can finally delete messages I accidentally send. Thanks for nothing, GroupMe.
-
-> Facebook is great and all, but half my friends don't have one for whatever reason. With Discord, I don't have to comporomise my privacy/security to participate in the disc golf community.
-
 # Ready to Join?
 Joining the community is as easy as ordering take-out or signing up for a tournament, except it's **completely free**. And, the first 500 people to join will get an exclusive badge, so don't wait.
 
