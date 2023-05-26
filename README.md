@@ -12,7 +12,7 @@ Discord offers:
 2. Easy Organization and Event Planning: Utilize dedicated channels to schedule and coordinate disc golf meetups, leagues, and events.
 3. User-Friendly Interface: Benefit from Discord's intuitive and immersive interface, designed specifically for community interactions, making it easy to connect and engage with fellow disc golfers.
 
-### Reasons to Join
+### Benefits of Joining
 
 * Engage in real-time discussions with other disc golfers. 
 * Participate in the local disc golf community and meet other players in your area. Grow your player circle or join an event.
