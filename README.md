@@ -21,7 +21,7 @@ Discord offers:
 
 # Community Features
 
-### Community Discussion
+### A Place for Discussion
 Connect with other local disc golfers in real-time. Ask questions, discuss a course or an upcoming tournament. "Is doubles happening this week?" This is the place to find out.
 
 ### Leagues and Events Space
