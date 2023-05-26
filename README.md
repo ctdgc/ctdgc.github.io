@@ -31,10 +31,10 @@ Our community is a perfect place to promote and learn about disc golf events in 
 Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, our instant communication and notification features enable you to connect with other golfers swiftly and efficiently. 
 
 ### Lost and Found
-Did you you lose a disc? Does one you found only have a pdga number? Help reconnect people with their prized posessions!
+Did you you lose a disc? Did you find one without name and want to get it back to the owner? Help reconnect people with their prized posessions in our lost and found section!
 
 ### Buy / Sell / Trade
-We all know someone with too much plastic. Maybe it's you! Our community offers a dedicated space for you to buy/sell/trade disc golf equipment. 
+We all know someone with too much plastic. Maybe it's you! Either way, our community offers a dedicated space for you to buy, sell and trade with others in the community.
 
 # Word on the street
 
