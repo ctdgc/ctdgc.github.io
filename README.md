@@ -19,9 +19,9 @@ Discord offers:
 * Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
 * Engage in community hangouts to have interactive conversations while discussing play or planning meetups.
 
-#### Community Features
+# Community Features
 
-##### A Place for Discussion
+### A Place for Discussion
 Connect with other local disc golfers in real-time. Ask questions, discuss a course or an upcoming tournament. "Is doubles happening this week?" This is the place to find out.
 
 ### Leagues and Events Space
