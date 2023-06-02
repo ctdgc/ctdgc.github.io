@@ -35,15 +35,15 @@ Did you you lose a disc? Did you find one without name and want to get it back t
 ### Buy / Sell / Trade
 We all know someone with too much plastic. Maybe it's you! Either way, our Discord offers a dedicated space for you to buy, sell and trade with others in the community.
 
-# Ready to Join?
-Joining the Discord is as easy as ordering take-out or signing up for a tournament, except it's **totally free**. And, the first 500 people to join will get an exclusive badge, so don't wait.
+# Ready to Go?
+The first 500 people to join will get an exclusive badge, so don't wait.
 
 ### Follow these three steps
 
-1. Create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}. If you already have an account, skip this step.
+1. If you already have an account, go to step 2! If not, create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}. 
 _The link opens to https://discord.com/register._
 
-2. Login to your new account using Discord's mobile app, desktop app, or any web browser.
+2. Login to your Discord account using Discord's mobile app, desktop app, or any web browser.
 You'll use the email and the password you set to login.
 
 3. Open [our invite link](https://discord.gg/DdHFhU4K5W){:target="_blank" rel="noopener"}. 
