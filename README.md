@@ -1,9 +1,9 @@
-Welcome to the landing page of the Central Texas Disc Golf Community (CTDGC)! We bring together disc golfers of all skill levels across Central Texas to connect, discuss, and share experiences.
+Welcome to the landing page of the Central Texas Disc Golf (CTDG) Discord! We bring together disc golfers of all skill levels across Central Texas to connect and converse off the courese.
 
-Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in insightful conversations, stay updated on news and events, and grow together.
+Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in conversations, and stay updated on news and events.
 
 # Community Platform
-Discord is a communication platform that combines text, voice, and video chat for seamless community interactions. It's chosen by disc golf communities for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser. 
+Discord is a communication platform that combines text, voice, and video chat for community interactions. It's chosen by disc golfers for its user-friendly interface, focus on community engagement, and versatile communication options. You can access our community through the Discord mobile app, desktop application, or any web browser. 
 
 Discord offers:
 
@@ -27,16 +27,16 @@ Connect with other local disc golfers in real-time. Ask questions, discuss a cou
 Our community is a perfect place to promote and learn about disc golf events in central Texas. Whether you're organizing a tournament, a casual meetup, or a reocurring league, you can share details and engage with the community in real-time. Filter by days of the week or tournament type for quick discovery.
 
 ### Easy round invites
-Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, our instant communication and notification features enable you to connect with other golfers swiftly and efficiently. 
+Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, our instant communication and notification features enable you to quickly connect with other golfers.
 
 ### Lost and Found
-Did you you lose a disc? Did you find one without name and want to get it back to the owner? Help reconnect people with their prized posessions in our lost and found section!
+Did you you lose a disc? Did you find one without name and want to get it back to the owner? Help reconnect people with their lost belongings in our lost and found section.
 
 ### Buy / Sell / Trade
 We all know someone with too much plastic. Maybe it's you! Either way, our community offers a dedicated space for you to buy, sell and trade with others in the community.
 
 # Ready to Join?
-Joining the community is as easy as ordering take-out or signing up for a tournament, except it's **completely free**. And, the first 500 people to join will get an exclusive badge, so don't wait.
+Joining the community is as easy as ordering take-out or signing up for a tournament, except it's **totally free**. And, the first 500 people to join will get an exclusive badge, so don't wait.
 
 ### Follow these three steps
 
