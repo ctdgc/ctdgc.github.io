@@ -36,11 +36,11 @@ Did you you lose a disc? Did you find one without name and want to get it back t
 We all know someone with too much plastic. Maybe it's you! Either way, the Discord offers a dedicated space for you to buy, sell and trade with others in the community.
 
 # Ready to Go?
-The first 500 people to join will get an exclusive badge, so don't wait.
+Joining is easy and the early adopters will get an exclusive badge.
 
-### Follow these three steps
+### Follow these three steps to join:
 
-1. If you already have an account, go to step 2! If not, create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}. 
+1. If you already have a Discord account, go to step 2! If not, create a Discord account by [registering here](https://discord.com/register){:target="_blank" rel="noopener"}. 
 _The link opens to https://discord.com/register._
 
 2. Login to your Discord account using Discord's mobile app, desktop app, or any web browser.
