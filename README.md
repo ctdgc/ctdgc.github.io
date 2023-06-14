@@ -1,6 +1,6 @@
-Welcome to the landing page of the Central Texas Disc Golf (CTDG) Discord! We bring together disc golfers of all skill levels across Central Texas to connect and converse off the courese.
+Welcome to the landing page of the Central Texas Disc Golf (CTDG) Discord! We bring together disc golfers of all skill levels across Central Texas to connect and converse.
 
-Our purpose is to foster a thriving disc golf community where you can meet fellow golfers, engage in conversations, and stay updated on news and events.
+Our purpose is to foster a thriving disc golf community where you can meet other golfers, engage in conversations, and stay updated on news and events.
 
 # Platform
 Discord is a communication platform that combines text, voice, and video chat for community interactions. It's chosen by disc golfers for its user-friendly interface, focus on community engagement, and versatile communication options. You can access it through the Discord mobile app, desktop application, or any web browser. 
@@ -13,7 +13,7 @@ Discord offers:
 
 ### Benefits of Joining
 
-* Engage in real-time discussions with other disc golfers. 
+* Engage in real-time discussions with other disc golfers in the region. 
 * Participate in the local disc golf community and meet other players in your area. Grow your player circle or join an event.
 * Join/host virtual watch parties for disc golf coverage and media. Live stream your event to connect and include others who couldn't attend.
 * Engage in community hangouts to have interactive conversations while discussing play or planning meetups.
@@ -24,16 +24,16 @@ Discord offers:
 Connect with other local disc golfers in real-time. Ask questions, discuss a course or an upcoming tournament. "Is doubles happening this week?" This is the place to find out.
 
 ### Leagues and Events Space
-Our Discord is a perfect place to promote and learn about disc golf events in central Texas. Whether you're organizing a tournament, a casual meetup, or a reocurring league, you can share details and engage with the community in real-time. Filter by days of the week or tournament type for quick discovery.
+The Discord is a perfect place to promote and learn about disc golf events in central Texas. Whether you're organizing a tournament, a casual meetup, or a reocurring league, you can share details and engage with the community in real-time. Filter by days of the week or tournament type for quick discovery.
 
 ### Easy round invites
-Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, our instant communication and notification features enable you to quickly connect with other golfers.
+Join and invite others for a round. Whether you're planning for later in the week or looking for someone to join you last-minute, the instant communication and notification features enable you to quickly connect with other golfers.
 
 ### Lost and Found
-Did you you lose a disc? Did you find one without name and want to get it back to the owner? Help reconnect people with their lost belongings in our lost and found section.
+Did you you lose a disc? Did you find one without name and want to get it back to the owner? Help reconnect people with their lost belongings in the lost and found section.
 
 ### Buy / Sell / Trade
-We all know someone with too much plastic. Maybe it's you! Either way, our Discord offers a dedicated space for you to buy, sell and trade with others in the community.
+We all know someone with too much plastic. Maybe it's you! Either way, the Discord offers a dedicated space for you to buy, sell and trade with others in the community.
 
 # Ready to Go?
 The first 500 people to join will get an exclusive badge, so don't wait.
